@@ -1,0 +1,20 @@
+{
+    "lenevima 4mg": {
+        "cost": 100.0,
+        "quantity": 685,
+        "type": "Capsule",
+        "brand": "Eisai Pharamaceauticals"
+    },
+    "lanol er": {
+        "cost": 2.5,
+        "quantity": 500,
+        "type": "Tablet",
+        "brand": "Hetero Drugs"
+    },
+    "dolo 650": {
+        "cost": 15.0,
+        "quantity": 1500,
+        "type": "Tablet",
+        "brand": "Micro Labs"
+    }
+}
