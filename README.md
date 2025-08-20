@@ -98,6 +98,13 @@ A full-featured Pharmacy Management System designed to simplify inventory manage
 
 ---
 
-## License
+## 🧑‍💻 Developed By
 
-This project is licensed under the [MIT License](LICENSE).
+**Babin Joe**  
+[🌐 Portfolio](https://babin-joe.vercel.app) • [GitHub](https://github.com/BABIN-JOE) • [LinkedIn](https://www.linkedin.com/in/babin-joe)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
